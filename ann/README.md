@@ -1,8 +1,8 @@
-# Customer Churn Prediction using ANN 🧠📊
+# Customer Churn Prediction using ANN 
 
 This project focuses on predicting customer churn using an Artificial Neural Network (ANN) model built in Python with TensorFlow and Keras. The model helps businesses identify customers likely to leave, allowing proactive retention strategies.
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Customer_Churn_ANN_Modelling/
@@ -10,15 +10,15 @@ Customer_Churn_ANN_Modelling/
 ├── README.md
 ```
 
-## 📌 Objective
+##  Objective
 
 To build a deep learning classification model that predicts whether a customer will churn based on their attributes like tenure, services, contract type, and payment method.
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠 Tools & Technologies
 
-- Python 🐍
+- Python 
 - Pandas, NumPy
 - Matplotlib, Seaborn
 - TensorFlow, Keras (Sequential API)
@@ -26,7 +26,7 @@ To build a deep learning classification model that predicts whether a customer w
 
 ---
 
-## 📉 Model Overview
+##  Model Overview
 
 - Input: Customer data (features like contract type, internet service, monthly charges, etc.)
 - Model: ANN with 1 input layer, 2 hidden layers, and 1 output layer (Sigmoid)
@@ -34,7 +34,7 @@ To build a deep learning classification model that predicts whether a customer w
 
 ---
 
-## 📈 Workflow
+##  Workflow
 
 1. **Data Preprocessing**
    - Handle categorical features with encoding
@@ -53,14 +53,14 @@ To build a deep learning classification model that predicts whether a customer w
 
 ---
 
-## 📊 Results
+##  Results
 
 - Accuracy: ~84–87%
 - Model performs well in predicting churners vs non-churners
 
 ---
 
-## ▶️ Running the Notebook
+##  Running the Notebook
 
 1. Clone the repo:
    ```bash
@@ -78,12 +78,10 @@ To build a deep learning classification model that predicts whether a customer w
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Feel free to fork the repository and contribute by submitting a pull request. For major changes, please open an issue first to discuss the changes.
 
 ---
 
-## 📩 Contact
 
-For questions, reach out via [LinkedIn](https://www.linkedin.com/) or raise an issue.
